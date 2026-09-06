@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer | JavaScript Enthusiast<br>💼 Currently: Software Engineer @Company<br>🛠️ Tech: React, Node.js, Python, MongoDB<br>🌱 Learning: DevOps & Cloud Computing<br>📫 How to reach me: [ahmaddana.liveblog365.com]
+Full-Stack Developer | JavaScript Enthusiast<br>💼 Currently: Software Engineer @Company<br>🛠️ Tech: React, Node.js, Python, MongoDB<br>🌱 Learning: DevOps & Cloud Computing<br>📫 How to reach me: ahmad.dana963@gmail.com
 
 
 ## 🌐 Socials:
